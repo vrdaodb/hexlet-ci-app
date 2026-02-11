@@ -8,20 +8,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      
       - name: Install dependencies
         run: make setup
-      
       - name: Run tests
         run: make test
-      
       - name: Run linter
         run: make lint
-      
+
       - name: Hello from Hexlet
         uses: hexlet-components/hello-from-hexlet-action@release
