@@ -1,5 +1,5 @@
 # Example app for CI Hexlet course
-[![CI](https://github.com/YOUR_USERNAME/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/hexlet-ci-app/actions/workflows/ci.yml)
+[![CI](https://github.com/vrdaodb/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)](https://github.com/vrdaodb/hexlet-ci-app/actions/workflows/ci.yml)
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
